@@ -10,6 +10,7 @@ require (
 	github.com/google/gopacket v1.1.20-0.20220810144506-32ee38206866
 	github.com/hashicorp/golang-lru/v2 v2.0.7
 	github.com/mdlayher/netlink v1.6.0
+	github.com/pion/rtp v1.8.9
 	github.com/quic-go/quic-go v0.41.0
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/viper v1.18.2
@@ -30,6 +31,7 @@ require (
 	github.com/mdlayher/socket v0.1.1 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
 	github.com/pelletier/go-toml/v2 v2.1.0 // indirect
+	github.com/pion/randutil v0.1.0 // indirect
 	github.com/sagikazarmark/locafero v0.4.0 // indirect
 	github.com/sagikazarmark/slog-shim v0.1.0 // indirect
 	github.com/sourcegraph/conc v0.3.0 // indirect

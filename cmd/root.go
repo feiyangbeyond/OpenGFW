@@ -98,6 +98,7 @@ var analyzers = []analyzer.Analyzer{
 	&udp.OpenVPNAnalyzer{},
 	&udp.QUICAnalyzer{},
 	&udp.WireGuardAnalyzer{},
+	&udp.RTPAnalyzer{},
 }
 
 var modifiers = []modifier.Modifier{
